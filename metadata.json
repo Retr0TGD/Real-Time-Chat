@@ -1,0 +1,6 @@
+{
+  "name": "Bank Call Center Chat",
+  "description": "Real-time dynamic call center routing workspace for clients, agents, and supervisors, equipped with SLA alerting, post-chat CSAT feedback forms, and Gemini AI simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
